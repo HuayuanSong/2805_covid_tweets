@@ -7,5 +7,4 @@ community==1.0.0b1
 python-louvain==0.16
 nltk==3.7
 wordcloud==1.8.2.2
-PyMuPDF==1.19.6
 scipy==1.5.2
