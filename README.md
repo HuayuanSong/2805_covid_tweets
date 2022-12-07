@@ -2,7 +2,7 @@
 Final project in 02805 Social Graphs & Interactions, Fall 22 at the Technical University of Denmark. <br>
 
 **Main code and analysis:** `main.ipynb` <br>
-**Report:** `02805_covid_tweets_final_report.pdf`
+**Report:** `02805_covid_tweets_final_report.pdf`<br>
 **Data:** https://drive.google.com/drive/folders/17llS7QFoGLn249H4m30y5OouYFEDVjvB?usp=sharing
 
 ## Introduction
